@@ -1,5 +1,5 @@
 {
-  "name": "html-webpack-injector",
+  "name": "html-injector-webpack-plugin",
   "version": "1.1.4",
   "description": "Helps to inject chunks to head and body via HtmlWebpackPlugin with additional options to add async/defer to chunks",
   "main": "index.js",
