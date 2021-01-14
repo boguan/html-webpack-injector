@@ -16,5 +16,8 @@
   ],
   "repository": "https://github.com/architgarg/html-webpack-injector.git",
   "author": "Archit garg <thearchitgargg@gmail.com> (https://github.com/architgarg)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "html-webpack-plugin": "^5.0.0-beta.4"
+  },
 }
